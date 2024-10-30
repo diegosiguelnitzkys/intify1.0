@@ -78,9 +78,9 @@ export default function Home() {
       <div className="bg-white py-24">
         <div className="container mx-auto px-4">
           <div className="max-w-xl mx-auto text-center">
-            <h2 className="text-4xl font-light mb-6 tracking-wide">Let's Connect</h2>
+            <h2 className="text-4xl font-light mb-6 tracking-wide">Let&apos;s Connect</h2>
             <p className="text-gray-600 mb-12 font-light leading-relaxed">
-              Interested in sustainable investments or solar installation? Leave your email and we'll reach out to discuss opportunities.
+              Interested in sustainable investments or solar installation? Leave your email and we&apos;ll reach out to discuss opportunities.
             </p>
             <form className="flex gap-4">
               <input

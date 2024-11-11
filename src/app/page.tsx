@@ -29,13 +29,13 @@ export default function Home() {
         <div className="container mx-auto px-6">
           <div className="max-w-4xl mx-auto text-center">
             <div className="mb-6">
-              <span className="text-green-800 text-sm font-medium tracking-wider">HELPING AGRICULTURE ADAPT TO CLIMATE CHANGE</span>
+              <span className="text-green-800 text-sm font-medium tracking-wider">SECURING TOMORROW&apos;S COFFEE PRODUCTION</span>
             </div>
             <h1 className="text-6xl font-light leading-tight mb-8 tracking-tight">
-  Securing Tomorrow's Coffee Production Today
-</h1>
+              Coffee&apos;s Great Migration: A Once-in-a-Generation Investment
+            </h1>
             <p className="text-xl text-gray-800 mb-12 max-w-2xl mx-auto leading-relaxed">
-              We identify and secure the world's most climate-resilient coffee growing regions, creating unique investment opportunities in a $200B+ market transformation.
+              We identify and secure the world&apos;s most climate-resilient coffee growing regions, creating unique investment opportunities in a $200B+ market transformation.
             </p>
             <div className="flex gap-6 justify-center">
               <button className="bg-green-900 text-white px-8 py-4 hover:bg-green-800 transition-colors text-sm tracking-wide">
@@ -84,7 +84,7 @@ export default function Home() {
 
             <div className="bg-gradient-to-br from-green-800 to-emerald-800 p-8 rounded-xl text-white group hover:shadow-xl transition-all duration-300">
               <div className="border-b border-white/10 pb-6 mb-6">
-                <h3 className="text-2xl font-light">Wine & Vineyards</h3>
+                <h3 className="text-2xl font-light">Wine &amp; Vineyards</h3>
               </div>
               <p className="text-green-100/80 text-sm leading-relaxed mb-8">
                 Developing new terroirs in emerging premium wine regions with proven climate resilience.
@@ -284,26 +284,27 @@ export default function Home() {
               <ul className="space-y-2 text-sm text-gray-600">
                 <li className="hover:text-gray-900 cursor-pointer">Terms</li>
                 <li className="hover:text-gray-900 cursor-pointer">Privacy</li>
+                <li className="hover:text-gray-900 cursor-pointer
                 <li className="hover:text-gray-900 cursor-pointer">Disclaimer</li>
               </ul>
             </div>
           </div>
-        </div>
-        <div className="mt-12 pt-8 border-t border-gray-100">
-          <div className="flex justify-between items-center">
-            <div className="text-sm text-gray-600">
-              © 2024 INTIFY. All rights reserved.
-            </div>
-            <div className="flex space-x-6">
-              <a href="#" className="text-gray-600 hover:text-gray-900">
-                LinkedIn
-              </a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">
-                Twitter
-              </a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">
-                Medium
-              </a>
+          <div className="mt-12 pt-8 border-t border-gray-100">
+            <div className="flex justify-between items-center">
+              <div className="text-sm text-gray-600">
+                © 2024 INTIFY. All rights reserved.
+              </div>
+              <div className="flex space-x-6">
+                <a href="#" className="text-gray-600 hover:text-gray-900">
+                  LinkedIn
+                </a>
+                <a href="#" className="text-gray-600 hover:text-gray-900">
+                  Twitter
+                </a>
+                <a href="#" className="text-gray-600 hover:text-gray-900">
+                  Medium
+                </a>
+              </div>
             </div>
           </div>
         </div>

@@ -35,7 +35,7 @@ export default function Home() {
               <span className="text-green-800 text-sm font-medium tracking-wider">SECURING TOMORROW'S COFFEE PRODUCTION</span>
             </div>
             <h1 className="text-6xl font-light leading-tight mb-8 tracking-tight">
-              Coffee's Great Migration: A Once-in-a-Generation Investment
+              Invest in Climate Resilient Agricultural Land 
             </h1>
             <p className="text-xl text-gray-800 mb-12 max-w-2xl mx-auto leading-relaxed">
               We identify and secure the world's most climate-resilient coffee growing regions, creating unique investment opportunities in a $200B+ market transformation.
